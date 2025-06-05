@@ -1,0 +1,13 @@
+12:00:07.187 [main] INFO  Magneto - Launched edge Browser
+12:00:07.395 [main] INFO  Magneto - Opening Url
+12:00:16.960 [main] INFO  Magneto - Opened Url : https://magento.softwaretestingboard.com/
+12:00:18.875 [main] INFO  Magneto - Element clicked successfully : [[EdgeDriver: MicrosoftEdge on windows (8f481588346becab0a3c34c1a8c9a6da)] -> xpath: (//ul/li/a[normalize-space()='Sign In'])[1]]
+12:00:18.963 [main] INFO  Magneto - Waiting till visibility of element to be displayed [[EdgeDriver: MicrosoftEdge on windows (8f481588346becab0a3c34c1a8c9a6da)] -> xpath: //div[@class='control']/input[@id='email']]
+12:00:19.201 [main] INFO  Magneto - Entered : shubham@example.com
+12:00:19.201 [main] INFO  Magneto - shubham@example.com Successfully entered in field
+12:00:19.253 [main] INFO  Magneto - Waiting till visibility of element to be displayed [[EdgeDriver: MicrosoftEdge on windows (8f481588346becab0a3c34c1a8c9a6da)] -> xpath: (//div[@class='field password required']/div/input[@id='pass'])[1]]
+12:00:19.427 [main] INFO  Magneto - Entered : Password123
+12:00:19.427 [main] INFO  Magneto - Password123 Successfully entered in field
+12:00:19.482 [main] INFO  Magneto - Scroll successfully : [[EdgeDriver: MicrosoftEdge on windows (8f481588346becab0a3c34c1a8c9a6da)] -> xpath: (//div[@class='primary']/button[@id='send2'])[1]]
+12:00:22.103 [main] INFO  Magneto - Element clicked successfully : [[EdgeDriver: MicrosoftEdge on windows (8f481588346becab0a3c34c1a8c9a6da)] -> xpath: (//div[@class='primary']/button[@id='send2'])[1]]
+12:00:22.688 [main] INFO  Magneto - Login successful: Welcome, shubham Doe!

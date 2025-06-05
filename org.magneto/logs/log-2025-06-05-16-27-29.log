@@ -1,0 +1,10 @@
+16:27:38.868 [main] INFO  Magneto - Launched edge Browser
+16:27:39.730 [main] INFO  Magneto - Opening Url
+16:27:48.857 [main] INFO  Magneto - Opened Url : https://magento.softwaretestingboard.com/
+16:27:50.890 [main] INFO  Magneto - Element clicked successfully : [[EdgeDriver: MicrosoftEdge on windows (042d0d79c5323623f9072d73f0df70f0)] -> xpath: (//ul/li/a[normalize-space()='Sign In'])[1]]
+16:27:51.213 [main] INFO  Magneto - Entered : shubham@example.com
+16:27:51.213 [main] INFO  Magneto - shubham@example.com Successfully entered in field
+16:27:51.421 [main] INFO  Magneto - Entered : Password123
+16:27:51.423 [main] INFO  Magneto - Password123 Successfully entered in field
+16:27:51.512 [main] INFO  Magneto - Scroll successfully : [[EdgeDriver: MicrosoftEdge on windows (042d0d79c5323623f9072d73f0df70f0)] -> xpath: (//div[@class='primary']/button[@id='send2'])[1]]
+16:27:54.100 [main] INFO  Magneto - Element clicked successfully : [[EdgeDriver: MicrosoftEdge on windows (042d0d79c5323623f9072d73f0df70f0)] -> xpath: (//div[@class='primary']/button[@id='send2'])[1]]

@@ -1,0 +1,13 @@
+09:03:28.238 [main] INFO  Magneto - Launched chrome Browser
+09:03:28.305 [main] INFO  Magneto - Opening Url
+09:03:33.074 [main] INFO  Magneto - Opened Url : https://magento.softwaretestingboard.com/
+09:03:34.677 [main] INFO  Magneto - Element clicked successfully : [[ChromeDriver: chrome on windows (f7a6e7e531ff6cf28e053521ed15fec9)] -> xpath: (//ul/li/a[normalize-space()='Sign In'])[1]]
+09:03:34.752 [main] INFO  Magneto - Waiting till visibility of element to be displayed [[ChromeDriver: chrome on windows (f7a6e7e531ff6cf28e053521ed15fec9)] -> xpath: //div[@class='control']/input[@id='email']]
+09:03:35.040 [main] INFO  Magneto - Entered : shubham@example.com
+09:03:35.041 [main] INFO  Magneto - shubham@example.com Successfully entered in field
+09:03:35.105 [main] INFO  Magneto - Waiting till visibility of element to be displayed [[ChromeDriver: chrome on windows (f7a6e7e531ff6cf28e053521ed15fec9)] -> xpath: (//div[@class='field password required']/div/input[@id='pass'])[1]]
+09:03:35.281 [main] INFO  Magneto - Entered : Password123
+09:03:35.282 [main] INFO  Magneto - Password123 Successfully entered in field
+09:03:35.356 [main] INFO  Magneto - Scroll successfully : [[ChromeDriver: chrome on windows (f7a6e7e531ff6cf28e053521ed15fec9)] -> xpath: (//div[@class='primary']/button[@id='send2'])[1]]
+09:03:38.223 [main] INFO  Magneto - Element clicked successfully : [[ChromeDriver: chrome on windows (f7a6e7e531ff6cf28e053521ed15fec9)] -> xpath: (//div[@class='primary']/button[@id='send2'])[1]]
+09:03:38.565 [main] INFO  Magneto - Login successful: Welcome, shubham Doe!

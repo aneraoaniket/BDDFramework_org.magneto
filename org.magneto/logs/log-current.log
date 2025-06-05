@@ -1,0 +1,20 @@
+16:30:07.182 [main] INFO  Magneto - Launched edge Browser
+16:30:07.785 [main] INFO  Magneto - Opening Url
+16:30:14.784 [main] INFO  Magneto - Opened Url : https://magento.softwaretestingboard.com/
+16:30:18.295 [main] INFO  Magneto - Element clicked successfully : [[EdgeDriver: MicrosoftEdge on windows (58c7f0140f23f1fb7791dfd8cf712f5a)] -> xpath: (//ul/li/a[normalize-space()='Sign In'])[1]]
+16:30:18.433 [main] INFO  Magneto - Waiting till visibility of element to be displayed [[EdgeDriver: MicrosoftEdge on windows (58c7f0140f23f1fb7791dfd8cf712f5a)] -> xpath: //div[@class='control']/input[@id='email']]
+16:30:18.669 [main] INFO  Magneto - Entered : shubham@example.com
+16:30:18.669 [main] INFO  Magneto - shubham@example.com Successfully entered in field
+16:30:18.727 [main] INFO  Magneto - Waiting till visibility of element to be displayed [[EdgeDriver: MicrosoftEdge on windows (58c7f0140f23f1fb7791dfd8cf712f5a)] -> xpath: (//div[@class='field password required']/div/input[@id='pass'])[1]]
+16:30:18.891 [main] INFO  Magneto - Entered : Password123
+16:30:18.892 [main] INFO  Magneto - Password123 Successfully entered in field
+16:30:18.953 [main] INFO  Magneto - Scroll successfully : [[EdgeDriver: MicrosoftEdge on windows (58c7f0140f23f1fb7791dfd8cf712f5a)] -> xpath: (//div[@class='primary']/button[@id='send2'])[1]]
+16:30:21.906 [main] INFO  Magneto - Element clicked successfully : [[EdgeDriver: MicrosoftEdge on windows (58c7f0140f23f1fb7791dfd8cf712f5a)] -> xpath: (//div[@class='primary']/button[@id='send2'])[1]]
+16:30:21.977 [main] INFO  Magneto - Login successful: Welcome, shubham Doe!
+16:30:21.981 [main] INFO  Magneto - User logged in successfully
+16:30:22.042 [main] INFO  Magneto - Waiting till visibility of element to be displayed [[EdgeDriver: MicrosoftEdge on windows (58c7f0140f23f1fb7791dfd8cf712f5a)] -> xpath: (//li[@class='customer-welcome']/span/button[@class='action switch'])[1]]
+16:30:22.070 [main] INFO  Magneto - Scroll successfully : [[EdgeDriver: MicrosoftEdge on windows (58c7f0140f23f1fb7791dfd8cf712f5a)] -> xpath: (//li[@class='customer-welcome']/span/button[@class='action switch'])[1]]
+16:30:22.266 [main] INFO  Magneto - Element clicked successfully : [[EdgeDriver: MicrosoftEdge on windows (58c7f0140f23f1fb7791dfd8cf712f5a)] -> xpath: (//li[@class='customer-welcome']/span/button[@class='action switch'])[1]]
+16:30:24.515 [main] INFO  Magneto - Element clicked successfully : [[EdgeDriver: MicrosoftEdge on windows (58c7f0140f23f1fb7791dfd8cf712f5a)] -> xpath: (//div[@class='customer-menu']/ul/li[@class='authorization-link']/a[normalize-space()='Sign Out'])[1]]
+16:30:24.515 [main] INFO  Magneto - Clicked on sign out button
+16:30:24.618 [main] INFO  Magneto - Browser closed successfully.
