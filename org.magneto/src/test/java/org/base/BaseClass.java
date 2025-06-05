@@ -169,4 +169,14 @@ public class BaseClass {
 		return (RandomStringUtils.randomAlphabetic(4));
 	}
 
+	//code added to check conflict
+	 public static void main(String[] args) {
+	        System.out.println("Start");
+	        System.out.println("Line A");
+	        System.out.println("Line B");
+	        System.out.println("Line C");
+	        System.out.println("Line D");
+	        System.out.println("Line E");
+	        System.out.println("End");
+	    }
 }
